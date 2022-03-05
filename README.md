@@ -1,1 +1,1 @@
-# ENPM661_Project1
+# ENPM661_Project1_8PuzzleProblem
